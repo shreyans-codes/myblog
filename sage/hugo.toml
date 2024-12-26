@@ -1,4 +1,4 @@
-baseURL = 'https://shreyanssethia.in/'
+baseURL = 'https://blog.shreyanssethia.in/'
 languageCode = 'en-us'
 title = 'Sage Mode'
 theme = [ "PaperMod" ]
@@ -99,7 +99,7 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/shreyans-codes/my-blog/sage/content"
+  URL = "https://github.com/shreyans-codes/myblog/tree/main/sage/content"
   Text = "Suggest Changes"
   appendFilePath = true
 
