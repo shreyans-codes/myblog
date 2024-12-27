@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Sage Mode</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Sage Mode</description>
+    <title>Ui/Ux on Sage Mode</title>
+    <link>http://localhost:1313/tags/ui/ux/</link>
+    <description>Recent content in Ui/Ux on Sage Mode</description>
     <image>
       <title>Sage Mode</title>
       <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 27 Dec 2024 12:26:44 +0530</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ui/ux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Laws of UX in My Experience</title>
       <link>http://localhost:1313/posts/using-laws-of-ux-in-my-projects/</link>
@@ -24,13 +24,6 @@
 &lt;p&gt;Users often perceive aesthetically pleasing design as design that’s more usable.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;It is for this reason that I tend to use &lt;strong&gt;Tailwind&lt;/strong&gt; for all my projects.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The mobile first approach not only makes the apps responsive without much trouble (that&amp;rsquo;s the secondary benefit), it actually ensures that all the components are aesthetically pleasing to mobile users and not just a bunch of divs forced to fit into the mobile screen.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>First Note</title>
-      <link>http://localhost:1313/posts/first-note/</link>
-      <pubDate>Thu, 26 Dec 2024 17:48:11 +0530</pubDate>
-      <guid>http://localhost:1313/posts/first-note/</guid>
-      <description>&lt;p&gt;In the vast endless sea, my heart still beats for that one droplet.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

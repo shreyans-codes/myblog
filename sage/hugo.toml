@@ -70,15 +70,15 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my sage space"
+  Content = "Welcome to the sage space"
 
   [[params.socialIcons]]
   name = "x"
   url = "https://x.com/ShreyansCodes"
 
   [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/shreyans-sethia-jain/"
 
   [[params.socialIcons]]
   name = "github"

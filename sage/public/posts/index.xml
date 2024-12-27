@@ -11,8 +11,20 @@
     </image>
     <generator>Hugo -- 0.140.1</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Dec 2024 17:48:11 +0530</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 12:26:44 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Laws of UX in My Experience</title>
+      <link>http://localhost:1313/posts/using-laws-of-ux-in-my-projects/</link>
+      <pubDate>Fri, 27 Dec 2024 12:26:44 +0530</pubDate>
+      <guid>http://localhost:1313/posts/using-laws-of-ux-in-my-projects/</guid>
+      <description>&lt;p&gt;You can check the all the laws of UX &lt;a href=&#34;https://lawsofux.com/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve followed these practices for a while now.&lt;/p&gt;
+&lt;h2 id=&#34;1-aesthetic-usability-effect&#34;&gt;1. Aesthetic-Usability Effect&lt;/h2&gt;
+&lt;p&gt;Users often perceive aesthetically pleasing design as design that’s more usable.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;It is for this reason that I tend to use &lt;strong&gt;Tailwind&lt;/strong&gt; for all my projects.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;The mobile first approach not only makes the apps responsive without much trouble (that&amp;rsquo;s the secondary benefit), it actually ensures that all the components are aesthetically pleasing to mobile users and not just a bunch of divs forced to fit into the mobile screen.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>First Note</title>
       <link>http://localhost:1313/posts/first-note/</link>

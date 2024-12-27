@@ -4,3 +4,6 @@
 [submodule "sage/themes/ananke"]
 	path = sage/themes/ananke
 	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "sage/themes/PaperModX"]
+	path = sage/themes/PaperModX
+	url = https://github.com/reorx/hugo-PaperModX.git
