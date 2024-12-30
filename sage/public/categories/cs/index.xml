@@ -21,7 +21,9 @@
       <description>&lt;p&gt;You can check the all the laws of UX &lt;a href=&#34;https://lawsofux.com/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve followed these practices for a while now.&lt;/p&gt;
 &lt;h2 id=&#34;aesthetic-usability-effect&#34;&gt;Aesthetic-Usability Effect&lt;/h2&gt;
+&lt;blockquote&gt;
 &lt;p&gt;Users often perceive aesthetically pleasing design as design that’s more usable.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;It is for this reason that I tend to use &lt;strong&gt;Tailwind&lt;/strong&gt; for all my projects.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The mobile first approach not only makes the apps responsive without much trouble (that&amp;rsquo;s the secondary benefit), it actually ensures that all the components are aesthetically pleasing to mobile users and not just a bunch of divs forced to fit into the mobile screen.&lt;/p&gt;</description>
     </item>
