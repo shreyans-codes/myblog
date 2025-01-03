@@ -26,48 +26,6 @@
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;It is for this reason that I tend to use &lt;strong&gt;Tailwind&lt;/strong&gt; for all my projects.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;The mobile first approach not only makes the apps responsive without much trouble (that&amp;rsquo;s the secondary benefit), it actually ensures that all the components are aesthetically pleasing to mobile users and not just a bunch of divs forced to fit into the mobile screen.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>You can check the all the laws of UX <a href="https://lawsofux.com/">here</a>.</p>
-<p>I&rsquo;ve followed these practices for a while now.</p>
-<h2 id="aesthetic-usability-effect">Aesthetic-Usability Effect</h2>
-<blockquote>
-<p>Users often perceive aesthetically pleasing design as design that’s more usable.</p>
-</blockquote>
-<p><em>It is for this reason that I tend to use <strong>Tailwind</strong> for all my projects.</em></p>
-<p>The mobile first approach not only makes the apps responsive without much trouble (that&rsquo;s the secondary benefit), it actually ensures that all the components are aesthetically pleasing to mobile users and not just a bunch of divs forced to fit into the mobile screen.</p>
-<h2 id="doherty-threshold">Doherty Threshold</h2>
-<blockquote>
-<p>Productivity soars when a computer and its users interact at a pace (&lt;400ms) that ensures that neither has to wait on the other.</p>
-</blockquote>
-<p>This is the most obvious one of them all. Your APIs should (and I make this my ground rule) not take more than 500ms to respond. Beyond that, if B2C product, you might have just lost a potential customer&rsquo;s attention.</p>
-<p>Even if you&rsquo;re B2B product, sub-second APIs tend to give a better customer experience.</p>
-<p>That being said, it isn&rsquo;t always possible to improve API performance, maybe you&rsquo;re stuck with an old framework or you have self hosted the backend.</p>
-<p>In such a case, you can do these things:</p>
-<ul>
-<li>Add an animation while they wait for the API to resolve (not a plain progress bar or spinner).</li>
-<li>Turn the API into a stream or paginate the response</li>
-<li>Add a caching layer like <a href="https://redis.io/">redis</a>.</li>
-</ul>
-<h2 id="hicks-law">Hick’s Law</h2>
-<blockquote>
-<p>The time it takes to make a decision increases with the number and complexity of choices.</p>
-</blockquote>
-<p>This basically says don&rsquo;t clutter your screen.</p>
-<h3 id="examples">Examples</h3>
-<p>Here is an example of it:</p>
-<p><img alt="Google Homepage" loading="lazy" src="https://lawsofux.com/hicks-law/google_hu45c738704ad4641ec8712ca42465ea32_141819_1200x0_resize_q75_box.jpg"></p>
-<h4 id="google-homepage">Google Homepage</h4>
-<p>The Google Homepage could have a link to any one of the plethora of application or services they have but instead, they focus on one thing only&hellip; The search bar.</p>
-<p>You might have seen those other search engines with news on the bottom or affiliate programs. Compared to them, Google Search just feels premium.</p>
-<p><em>This law also somewhat ties in with Occam&rsquo;s Razor</em></p>
-<p>When building applications, I try to eliminate any unnecessary detail that I can, and if I have to show it there&hellip; maybe some use and some don&rsquo;t, I usually provide a hide section button (also remembering their choices).</p>
-<p>This enables them to focus only on the content that they actually need. All the action buttons are prominent but all the secondary actions can be hidden behind a dropdown menu of the page.</p>
-<h2 id="peak-end-rule">Peak-End Rule</h2>
-<blockquote>
-<p>People judge an experience largely based on how they felt at its peak and at its end, rather than the total sum or average of every moment of the experience.</p>
-</blockquote>
-<p>All the D2C applications inherently do this where they focus a lot of effort on the first screen that the user interacts with, it is the point of initial perception.</p>
-<p>However B2B application by and large ignore this part altogether where they would have some really old jQuery based login page or some bootstrap template based login screen.</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
