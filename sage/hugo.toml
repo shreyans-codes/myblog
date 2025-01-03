@@ -13,6 +13,9 @@ pygmentsUseClasses = true
 disableXML = true
 minifyOutput = true
 
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
 [params]
 env = "production"
 title = "ExampleSite"
@@ -38,11 +41,12 @@ hidemeta = false
 hideSummary = false
 showtoc = false
 tocopen = false
+ShowFullTextinRSS = true
 
   [params.assets]
   favicon = "/icons/favicon.ico"
-  favicon16x16 = "/icons/favicon16x16.png"
-  favicon32x32 = "/icons/favicon32x32.png"
+  favicon16x16 = "/icons/favicon-16x16.png?"
+  favicon32x32 = "/icons/favicon-32x32.png?"
   apple_touch_icon = "/icons/apple_touch_icon.png"
   safari_pinned_tab = "/icons/favicon.ico"
 
@@ -83,6 +87,10 @@ tocopen = false
   [[params.socialIcons]]
   name = "github"
   url = "https://github.com/shreyans-codes"
+
+  [[params.socialIcons]]
+  name = "rss"
+  url = "/posts/index.xml"
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
