@@ -40,11 +40,11 @@ showtoc = false
 tocopen = false
 
   [params.assets]
-  favicon = "<link / abs url>"
-  favicon16x16 = "<link / abs url>"
-  favicon32x32 = "<link / abs url>"
-  apple_touch_icon = "<link / abs url>"
-  safari_pinned_tab = "<link / abs url>"
+  favicon = "/icons/favicon.ico"
+  favicon16x16 = "/icons/favicon16x16.png"
+  favicon32x32 = "/icons/favicon32x32.png"
+  apple_touch_icon = "/icons/apple_touch_icon.png"
+  safari_pinned_tab = "/icons/favicon.ico"
 
   [params.label]
   text = "Home"
